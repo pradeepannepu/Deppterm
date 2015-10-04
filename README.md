@@ -22,5 +22,6 @@ and Coffee-script)
     ```npm install``` on C9 terminal
 * open server.coffee and Run
 
-
+## Snapshot
+![Deppterm](https://raw.githubusercontent.com/pradeepannepu/Deppterm/master/client/public/icons/demo.PNG)
 
