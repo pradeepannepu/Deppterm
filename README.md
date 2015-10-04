@@ -1,6 +1,6 @@
 # Deppterm
 
-Deppterm is [tty.js](https://github.com/chjj/tty.js) based NodeJs Application.
+Deppterm is [tty.js](https://github.com/chjj/tty.js) based NodeJs and Coffee Application.
 
 
 # Run
